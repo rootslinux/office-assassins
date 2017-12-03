@@ -5,16 +5,22 @@ This code is a simple application for use by the game master to assist with mana
 
 # Usage
 Use maven to build/package: 
-`$ mvn compile`
+`$ mvn compile package`
 
 The application requires a single argument specifying the database file to load:
+
 `$ java -jar target/office-assassins-1.0-jar-with-dependencies.jar db/sample_test.db`
 
 If everything worked, you should see output like the following.
+
 `Established DB connection with file db/sample_test.db
+
 Loaded data for 32 players
+
 ========== Player Rankings ==========
+
 (Rank) ID: Name ... Score/Kills/Deaths
+
 .....
 `
 

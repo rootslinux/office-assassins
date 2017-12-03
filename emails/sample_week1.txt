@@ -1,0 +1,576 @@
+p1@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P15
+- Player P17
+- Player P7
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p2@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P16
+- Player P31
+- Player P21
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p3@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P19
+- Player P5
+- Player P25
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p4@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P32
+- Player P24
+- Player P27
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p5@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P25
+- Player P4
+- Player P32
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p6@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P1
+- Player P15
+- Player P17
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p7@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P14
+- Player P30
+- Player P28
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p8@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P22
+- Player P11
+- Player P3
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p9@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P8
+- Player P22
+- Player P11
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p10@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P2
+- Player P16
+- Player P31
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p11@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P3
+- Player P19
+- Player P5
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p12@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P20
+- Player P23
+- Player P6
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p13@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P10
+- Player P2
+- Player P16
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p14@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P30
+- Player P28
+- Player P29
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p15@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P17
+- Player P7
+- Player P14
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p16@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P31
+- Player P21
+- Player P9
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p17@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P7
+- Player P14
+- Player P30
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p18@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P12
+- Player P20
+- Player P23
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p19@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P5
+- Player P25
+- Player P4
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p20@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P23
+- Player P6
+- Player P1
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p21@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P9
+- Player P8
+- Player P22
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p22@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P11
+- Player P3
+- Player P19
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p23@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P6
+- Player P1
+- Player P15
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p24@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P27
+- Player P18
+- Player P12
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p25@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P4
+- Player P32
+- Player P24
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p26@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P13
+- Player P10
+- Player P2
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p27@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P18
+- Player P12
+- Player P20
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p28@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P29
+- Player P26
+- Player P13
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p29@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P26
+- Player P13
+- Player P10
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p30@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P28
+- Player P29
+- Player P26
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p31@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P21
+- Player P9
+- Player P8
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
+p32@example.com
+[Assassins] - Week 1 Targets
+Assassin Player, your list of assigned targets for this week follows.
+
+- Player P24
+- Player P27
+- Player P18
+
+Player Career Summary:
+
+Total Kills: 0
+Total Deaths: 0
+Total Score: 0
+
+=== Weekly Breakdown ===
+
+
+=================================================================
